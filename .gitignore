@@ -1,8 +1,0 @@
-.idea
-*.iml
-.project
-.settings
-node_modules/
-dist/
-.tmp/
-coverage/
